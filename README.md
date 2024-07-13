@@ -25,11 +25,12 @@ That's how you expand your territory. If the surrounding cells had others' flas,
 
 # How to play
  1. Make sure you have Java installed on your system.
- 2. To compile the code, run the following command in the terminal:
+ 2. To compile from source code, run the following command in the terminal:
     ```
-    javac Project.java
+    javac -d bin Project.java
     ```
- 3. To run the code, run the following command in the terminal:
+    To run the game, run the following command in the terminal:
     ```
     java Project
     ```
+ 3. 
