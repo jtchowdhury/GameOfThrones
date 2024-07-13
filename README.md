@@ -26,6 +26,7 @@ That's how you expand your territory. If the surrounding cells had others' flas,
 # How to play
  1. Make sure you have Java installed on your system.
     For windows, download and install Java from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+
     For Ubuntu, run the following command in the terminal:
     ```
     sudo apt-get install default-jre
