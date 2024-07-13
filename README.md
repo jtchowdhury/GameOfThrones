@@ -25,12 +25,36 @@ That's how you expand your territory. If the surrounding cells had others' flas,
 
 # How to play
  1. Make sure you have Java installed on your system.
- 2. To compile from source code, run the following command in the terminal:
+    For windows, download and install Java from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+    For Ubuntu, run the following command in the terminal:
+    ```
+    sudo apt-get install default-jre
+    ```
+    For Arch:
+    ```
+    sudo pacman -S jre-openjdk
+    ```
+    For Fedora:
+    ```
+    sudo dnf install java-11-openjdk
+    ```
+    For MacOS
+    ```
+    brew install openjdk@11
+    ```
+
+ 2. Clone the repository by running the following command in the terminal:
+    ```
+    git clone https://github.com/Turja-Roy/CR-GOT.git
+    ```
+
+ 3. To run the game, run the following command in the terminal:
+    ```
+    java bin/Project
+    ```
+
+- To compile from source code, run the following command in the terminal:
     ```
     javac -d bin Project.java
     ```
-    To run the game, run the following command in the terminal:
-    ```
-    java Project
-    ```
- 3. 
+    In that case, make sure you have jdk installed besides jre.
