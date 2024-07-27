@@ -1,5 +1,6 @@
 ## Welcome to Game of Thrones
-***(Inspired from the game "Chain Reaction" and the popular fiction "Game of Thrones")***
+***(Inspired from the game "Chain Reaction" and the popular fiction "Game of Thrones")***\
+Check out the [video demo](https://drive.google.com/file/d/1DEK3jN0B9qpVsmESKLribsLfuifXGIod/view?usp=sharing) 
 
 Caution! *"When you play a game of thrones, you win or you die."* - George R.R. Martin 
 
